@@ -1,0 +1,6 @@
+- all words must be sperated by a space 
+- function name cannot start with a number 
+- we care not case sensitive 
+- vairable cannot start with  number 
+- we write the function definition as we want on single line or mutltiple with any nmber of spaces 
+- inside the body of the function we must start any statement by # after finishing another # 

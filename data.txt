@@ -1,0 +1,7 @@
+ void  karim ( int x int y ) 
+ {
+  
+     
+     1 + 1 
+    
+ }
