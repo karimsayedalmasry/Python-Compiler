@@ -61,7 +61,6 @@ def check_function_body(file_content_lst, types_list):
             break
     for i in range(start, len(file_content_lst)-1):
         function_body.append(file_content_lst[i])
-        function_body.append(" ")
     function_body_string = ""
     for i in function_body:
         function_body_string = function_body_string + i

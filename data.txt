@@ -1,7 +1,6 @@
- void  karim ( int x int y ) 
+int  karim ( void ) 
  {
   
-     
-     1 + 1 
-    
+    1+1
+
  }
