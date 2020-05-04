@@ -1,6 +1,6 @@
 int  karim ( void ) 
  {
   
-    1+1
+   IF 1==1 THEN 5 ELSE 6
 
  }
