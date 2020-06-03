@@ -5,7 +5,6 @@ print("Program Started")
 def check_function(file_content_lst, types_list):
 
     if str.lower(file_content_lst[0]) in types_list:
-        param_list = []
         temp_string = file_content_lst[1][0]
         if not str.isdigit(temp_string):
             if file_content_lst[2] == '(':
